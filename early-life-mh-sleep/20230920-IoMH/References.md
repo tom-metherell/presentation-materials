@@ -1,4 +1,4 @@
-Numbered references
+## Numbered references
 
 1. Scott AJ, Webb TL, Martyn-St James M, Rowse G, Weich S. Improving sleep quality leads to better mental health: A meta-analysis of randomised controlled trials. Sleep Med Rev. 2021 Dec 1;60:101556.
 2. Anderson KN, Bradley AJ. Sleep disturbance in mental health problems and neurodegenerative disease. Nat Sci Sleep. 2013 May 31;5:61–75.
